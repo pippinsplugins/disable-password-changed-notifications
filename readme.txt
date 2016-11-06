@@ -9,11 +9,11 @@ Requires at least: 4.4
 Tested up to: 4.7
 Stable tag: 1.0
 
-Disables the notification email sent to side administrators when users change their passwords.
+Disables the notification email sent to site administrators when users change their passwords.
 
 == Description ==
 
-Disables the notification email sent to side administrators when users change their passwords. There are no settings to configure.
+Disables the notification email sent to site administrators when users change their passwords. There are no settings to configure.
 
 == Changelog ==
 
